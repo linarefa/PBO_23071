@@ -1,4 +1,4 @@
-# kalkulator.py
+#  modul_satu_pbo.py
 
 def operasi(a, b, op):
     if op == 'tambah':
